@@ -1,0 +1,8 @@
+2024-05-21 21:46:23.819902: Book added - Title: '1984', Author: 'George Orwell'
+2024-05-21 21:46:23.819902: Book added - Title: 'To Kill a Mockingbird', Author: 'Harper Lee'
+2024-05-21 21:46:23.819902: Listing all books
+Title: '1984', Author: 'George Orwell'
+Title: 'To Kill a Mockingbird', Author: 'Harper Lee'
+2024-05-21 21:46:23.819902: Listing all books
+Title: 'To Kill a Mockingbird', Author: 'Harper Lee'
+2024-05-21 21:46:23.819902: Attempted to remove non-existent book - Title: 'The Great Gatsby'
