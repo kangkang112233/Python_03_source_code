@@ -27,7 +27,7 @@ class Book:
 books = [
     Book("The Catcher in the Rye", 1951),
     Book("To Kill a Mockingbird", 1960),
-    
+
     ("1984", 1949),
     Book("Pride and Prejudice", 1813),
     Book("The Great Gatsby", 1925),
